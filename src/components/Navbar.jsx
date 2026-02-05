@@ -141,7 +141,7 @@ export default function Navbar() {
             
             {/* Resume button */}
             <a 
-              href="/resume.pdf" 
+              href="/KINNERA_NAVEEN.pdf" 
               download 
               className="hidden sm:inline-flex btn-ghost text-sm"
             >
@@ -209,7 +209,7 @@ export default function Navbar() {
                   className="pt-2 border-t border-white/10"
                 >
                   <a 
-                    href="/resume.pdf" 
+                    href="/KINNERA_NAVEEN.pdf" 
                     download 
                     className="block w-full text-left px-4 py-3 rounded-xl hover:bg-white/10 dark:hover:bg-white/5 transition-colors text-primary-500 font-medium"
                   >

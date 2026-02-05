@@ -129,7 +129,7 @@ export default function AboutSection() {
           {/* CTA Buttons */}
           <div className="flex flex-wrap gap-4 pt-4">
             <a 
-              href="/resume.pdf" 
+              href="/KINNERA_NAVEEN.pdf" 
               download 
               className="btn-primary group"
             >
